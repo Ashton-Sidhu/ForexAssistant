@@ -206,7 +206,7 @@ def main():
     intro()
     commands()
     while(cont):
-        pricelist = [float(i) for i in getList('data.csv')]
+        pricelist = [float(i) for i in getList('test.csv')]
         inp = input("Please enter a command(c, a, s, q): ")
         if(inp == "c"):
             globalmaxindex = getGlobalMaxIndex(pricelist)

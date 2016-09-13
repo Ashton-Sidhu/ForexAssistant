@@ -34,7 +34,7 @@ def main():
                 writeToFile('data.csv', prices)
 
             counter += 1
-            time.sleep(30)
+            time.sleep(5)
         except KeyboardInterrupt:
             #writeToFile(prices)
             print("User Stopped")
