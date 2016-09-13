@@ -1,6 +1,12 @@
 # ForexAssistant
 Forex Trading Assistant, Prediction Algorithm
 
+This program analyzes a currency pair then using trends and analytical tools is able to provide trading advice (i.e a good time to buy in or go short into a market). 
+
+For information regarding trading philosophy, techniques used, direction of the program and/or upcoming features, contact Ashton Sidhu at ashton.sidhu1994@gmail.com
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 The files uploaded here are one version older than the most current version which was used to test the decision making and trading philosophy to make sure it was implemented correctly.
 
 1) This program was coded using python 3.
