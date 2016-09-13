@@ -11,7 +11,7 @@ The files uploaded here are one version older than the most current version whic
 
 4) The latest version,which is undergoing testing, introduces a more sophistacted data "memory" so the program has a much larger data set to use for more accurate predictions.
 
-How to run:
+How to run with no set of data:
 
 PLAN 1:
 
@@ -40,3 +40,7 @@ Plan 2 (if setup.py fails):
   6) Run run_algoG.pyfor a couple minutes to collect some data.
   
   7) Run forecastalgoG.py
+  
+TO RUN THE PROGRAM WITH A FULL SET OF DATA:
+
+  1) run forecastalgoGtest.py
